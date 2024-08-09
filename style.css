@@ -1,0 +1,78 @@
+body{
+  background-color:#e7fff6;
+}
+h1{
+  text-align:center;
+  font-family:Georgia;
+  font-size:50px;
+}
+p{
+  font-family:Georgia;
+  font-size:15px;
+}
+div>a{
+  border: dotted 5px #ff9dd9;
+  font-family:Georgia;
+  margin:50px;
+  padding:5px;
+  background-color:#ffd5dd;
+}
+.location1{
+  font-family:'Gill Sans';
+  color:#3f86cc;
+  font-size:20px;
+  font-style:bold;
+}
+.location2{
+  font-family:'Century Gothic';
+  color:#ff9dd9;
+  font-size:30px;
+  font-style:italic;
+}
+.decoration{
+  border:solid 3px #8079d4;
+  background-color: #bebed9;
+}
+table, th, td{
+  text-align:center;
+  border: solid 3px #8079d4;
+  background-color:white;
+}
+#hover:hover{
+  font-size:30px;
+}
+#airport{
+  width:250px;
+
+}
+#airport:hover{
+  border: dashed 3px black;
+  padding: 20px 30px;
+}
+#sanjuanpic1{
+  width:300px;
+  border: double 20px #e2deff;
+  padding: 20px;
+}
+#sanjuanpic2{
+  width:300px;
+  border: double 20px #ffd5dd;
+  padding:20px;
+}
+#whitehouse{
+  width:400px;
+  border: dotted 10px #aedbff; 
+}
+#blue{
+  width:400px;
+  padding:10px;
+  border: groove 10px #e2deff;
+  margin:5px;
+}
+p iframe{
+  width:500px;
+  height:500px;
+}
+p>b{
+  font-family:cursive;
+}
